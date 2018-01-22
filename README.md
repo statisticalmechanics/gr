@@ -1,4 +1,4 @@
-# gr
+# g(r)
 radial distribution function
 
 After complied by "icc -o gr gr.c", 
