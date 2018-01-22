@@ -1,5 +1,5 @@
 # g(r)
-radial distribution function
+Radial Distribution Function
 
 After complied by "icc -o gr gr.c", 
 it uses input .xyz configuration file "configuration.xyz", 
