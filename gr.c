@@ -3,6 +3,8 @@
  * of ensemble configurations in "movie.xyz"
  * output results in "gr.dat"
  * Kai Zhang, Duke University, 2011
+ * git update 2018
+ * git branch gr-divide
  *****************************************/
 #include <stdio.h>
 #include <stdlib.h>
