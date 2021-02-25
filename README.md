@@ -1,5 +1,6 @@
 # g(r)
 Radial Distribution Function
+https://sites.google.com/site/kaizhangstatmech/code/radial-distribution-function-gr
 
 After complied by "icc -o gr gr.c", 
 it uses input .xyz configuration file "configuration.xyz", 
@@ -17,3 +18,7 @@ particle number N
 simulation box size L
 
 number of bins of the histogram 
+
+# S(q)
+
+https://sites.google.com/site/kaizhangstatmech/code/structurefactorsq
